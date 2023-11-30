@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SaraNiknamHesar
 - 👀 I have a keen interest in coding, designing, and creating innovative things
 - 🌱 I'm currently in the process of learning how to create websites
-- 📫 How to reach me ...
 #
 <!---
 SaraNiknamHesar/SaraNiknamHesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,11 +45,16 @@ _Hello there! I'm Sara Niknam Hesar, a dedicated master's student in Computer En
 
 
 <!-- CONTACT -->
-## Contact
+## 📫  Contact
+ [![LinkedIn ][linkedin-shield]][html-url]  
+saraniknam - [www.linkedin.com/in/sara-niknam-8985321bb) -  
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+[![twitter ][twitter.com]][twitter-url]  
+saraniknaam - [https://twitter.com/saraniknaam) -  
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+  [![LinkedIn ][gmail.com]][gmail-url]  
+saraniknaam - [https://twitter.com/saraniknaam) -
+saraniknam - [saraniknaam76@gmail.com)
 
 
 
@@ -95,6 +99,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [css-url]: https://www.w3schools.com/css/
 [php.com]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [php-url]: https://www.php.net/
+[twitter.com]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: [https://www.php.net/](https://twitter.com/home)
+[gmail.com]: https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: https://mail.google.com
 [js.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [sass-com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
