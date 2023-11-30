@@ -21,6 +21,9 @@ SaraNiknamHesar/SaraNiknamHesar is a ✨ special ✨ repository because its `REA
 
 
 ### 👯 Skills / Languages
+* [![html][html.com]][html-url]
+*  [![css][css.com]][css-url]
+*  [![php][php.com]][php-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![React][React.js]][React-url]
@@ -31,16 +34,12 @@ SaraNiknamHesar/SaraNiknamHesar is a ✨ special ✨ repository because its `REA
 <!-- * [![Laravel][Laravel.com]][Laravel-url] -->
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## 🤔 ABOUT ME?
 
 _Hello there! I'm Sara Niknam Hesar, a dedicated master's student in Computer Engineering at Padova University. My journey is fueled by an insatiable passion for both the intricacies of coding and the artistry of design. As I navigate the dynamic world of technology, I find joy in unraveling its complexities and transforming them into innovative solutions. Beyond the lines of code, I am on a quest to be a positive force in the world, aspiring to make it a better place for everyone. I believe in the power of technology to shape a brighter future, and my ambition is not just to master it for personal gain but to share that knowledge and contribute to a collective brilliance. Join me on this exciting journey of learning, creating, and making a meaningful impact!_
-
-### Prerequisites
 
 
 
@@ -89,4 +88,10 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[instagram-url]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[html.com]: https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://html.com/
+[css.com]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://www.w3schools.com/css/
+[php.com]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[php-url]: https://www.php.net/
+
