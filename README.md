@@ -24,9 +24,11 @@ SaraNiknamHesar/SaraNiknamHesar is a ✨ special ✨ repository because its `REA
 * [![html][html.com]][html-url]
 *  [![css][css.com]][css-url]
 *  [![php][php.com]][php-url]
+*    [![js][js.com]][js-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![React][React.js]][React-url]
+
 <!-- * [![Next][Next.js]][Next-url] -->
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
@@ -50,7 +52,6 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -94,4 +95,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [css-url]: https://www.w3schools.com/css/
 [php.com]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 [php-url]: https://www.php.net/
+[js.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[sass-com]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[sass.url]: [https://www.adobe.com/products/photoshopfamily.html](https://sass-lang.com/)https://sass-lang.com/
 
