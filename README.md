@@ -39,18 +39,14 @@
 <h1>About me</h1>
 
 <p>
-   <img align="right" width="250" 
- height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lkdjhxYmt1emF5aWZqMXJpNXdsZ3Y1b2ljOHJkZ21kd2VlMGc3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4EbPq54Rbx5UvBXsRx/giphy.gif" alt="Coding gif" />
-      <img align="right" width="250" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611kydv8qbkuzayifj1ri5wlgv5oic8rdgmdwee0g7e&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" / >
+<!--    <img align="right" width="250" 
+ height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lkdjhxYmt1emF5aWZqMXJpNXdsZ3Y1b2ljOHJkZ21kd2VlMGc3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4EbPq54Rbx5UvBXsRx/giphy.gif" alt="Coding gif" /> -->
+<!--       <img align="right" width="250" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611kydv8qbkuzayifj1ri5wlgv5oic8rdgmdwee0g7e&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" / > -->
    
    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
    📧 &emsp; Reach me anytime: saraniknaam76@gmail.com<br/><br/>
 </p>
-
-
-
-
 
 ## 🤔
 _Hello there! I'm Sara Niknam Hesar, a dedicated master's student in Computer Engineering at Padova University. My journey is fueled by an insatiable passion for both the intricacies of coding and the artistry of design. As I navigate the dynamic world of technology, I find joy in unraveling its complexities and transforming them into innovative solutions. Beyond the lines of code, I am on a quest to be a positive force in the world, aspiring to make it a better place for everyone. I believe in the power of technology to shape a brighter future, and my ambition is not just to master it for personal gain but to share that knowledge and contribute to a collective brilliance. Join me on this exciting journey of learning, creating, and making a meaningful impact!_
@@ -73,10 +69,11 @@ _Hello there! I'm Sara Niknam Hesar, a dedicated master's student in Computer En
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-<!-- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) -->
-
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 <!-- ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
-<!-- ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
 <!-- ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) -->
 
 
@@ -104,15 +101,7 @@ _Hello there! I'm Sara Niknam Hesar, a dedicated master's student in Computer En
 
 <br/>
 
-<p align="center">
-   <a href="https://github.com/saraniknamhesar">
-      <img 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=saraniknamhesar&theme=radical&border=7F3FBF&background=0D1117" 
-         alt="Sara's GitHub streak" 
-         width="70%"
-      />
-   </a>
-</p>
+
 
 
 
